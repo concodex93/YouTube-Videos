@@ -1,0 +1,14 @@
+.video-item.item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+}
+
+.video-item.item img {
+  max-width: 180px;
+}
+/*# sourceMappingURL=VideoItem.css.map */
